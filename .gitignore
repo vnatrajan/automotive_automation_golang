@@ -1,0 +1,15 @@
+# Binaries
+bin/
+*.exe
+*.out
+
+# Go build cache
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Env
+.env
